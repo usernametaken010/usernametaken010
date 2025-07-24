@@ -5,10 +5,7 @@ I'm "professional position"
 
 You can find me here too 👇 professional contact
 
-<div>
-<a href="https://instagram.com/julianacondea" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+
 # Tech Stack
 
 <div align="center"><br>
